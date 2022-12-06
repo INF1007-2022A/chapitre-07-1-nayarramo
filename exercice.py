@@ -3,7 +3,7 @@
 
 # TODO: Importez vos modules ici
 import math
-import sys
+# import sys
 from exo6 import frequence
 import turtle
 import re
