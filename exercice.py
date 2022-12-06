@@ -2,7 +2,11 @@
 # -*- coding: utf-8 -*-
 
 # TODO: Importez vos modules ici
-
+import math
+import sys
+from exo6 import frequence
+import turtle
+import re
 
 
 # TODO: Définissez vos fonction ici
